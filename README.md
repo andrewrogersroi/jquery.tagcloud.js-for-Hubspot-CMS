@@ -3,7 +3,7 @@ Instructions for Hubspot CMS
 
 Upload file
 -----------
-    Download files for Github
+    Download files from Github
     Unzip
     Go to Settings>File Manager
     If you don't have a folder for javascript files, create a folder called js.

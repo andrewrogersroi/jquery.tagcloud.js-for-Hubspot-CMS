@@ -39,6 +39,7 @@ Your Tags should now be formatted as a cloud!
 
 Code Snippet
 -------------
+```
 <!-- Tag Cloud Scripts Starts Here -->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript">
@@ -70,4 +71,5 @@ Code Snippet
   ul#_TagList li {display:inline!important;list-style-image:none!important;margin:0!important;padding:0!important;}
   ul#_TagList li a {text-decoration:none!important;margin:0!important;padding:0!important;}
 </style>
+```
 <!-- Tag Clould Scripts Ends Here -->

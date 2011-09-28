@@ -59,7 +59,7 @@ Code Snippet
        
         start: 10, //minimum font size
         end: 18, //maximum font size
-        unit: 'px', // unit (px, pt, em, %)
+        unit: 'px' // unit (px, pt, em, %)
         
        },
        color: {

@@ -18,21 +18,19 @@ Upload file
     Select the "jquery.tagcloud.js" file and click "Open"
     Click "Upload"
 
-Format Code Snippet
--------------------
-    On the Code below find this
-    <script type="text/javascript" src="/Portals/[YOUR PORTAL ID]/js/jquery.tagcloud.js"></script>
-    enter your Portal ID
-    <script type="text/javascript" src="/Portals/12345/js/jquery.tagcloud.js"></script>
-    If you are using an exisiting javascript folder, be sure to change the file path as well
-    The color and font size ranges can also be changed to match your site and preference
-    
+
 Add to Page
 -----------
     Go To Your Blog home page
     In the sidebar click "add module" 
     Under the Content tab, select "HTML/Javascript"
     Copy and paste the code snippet below into the text area.
+    find this
+    <script type="text/javascript" src="/Portals/[YOUR PORTAL ID]/js/jquery.tagcloud.js"></script>
+    enter your Portal ID
+    <script type="text/javascript" src="/Portals/12345/js/jquery.tagcloud.js"></script>
+    If you are using an exisiting javascript folder, be sure to change the file path as well
+    The color and font size ranges can also be changed to match your site and preference
     Check the box "Do not show module title"
     Check the box "Use plain container with no formatting"
     Click "Save"
